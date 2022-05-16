@@ -36,4 +36,5 @@ Todos los endpoints estan protegidos por JWT, por lo que es necesario agregar la
     <td colspan="3" style="width: 100%; padding-top: 50px;">DELETE</td>
     <td colspan="3" style="width: 100%; padding-top: 50px;">http://localhost:4000/api/cliente/:id</td>
   </tr>
+  
 </table>

@@ -1,5 +1,5 @@
 const mysql = require('mysql')
-
+// Database configuration
 const pool = mysql.createPool({
     host: 'localhost',
     user: 'root',

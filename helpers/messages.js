@@ -1,3 +1,5 @@
+// Mesagges object to return on requests
+
 module.exports = {
     tokenNotFound: {
         "MesageType": "Error",
